@@ -49,7 +49,9 @@ end
    AddButton(Tab1o, {
      Name = "tốc độ",
     Callback = function() 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/AkatsukiHub1/Universal/refs/heads/main/README.md"))()    
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AkatsukiHub1/Universal/refs/heads/main/README.md"))()
+end
+})   
    AddButton(Tab1o, {
      Name = "minh nhật hub",
     Callback = function()
