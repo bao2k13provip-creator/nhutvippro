@@ -59,7 +59,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/MerebennieOfficial/Be
 end
 })
    AddButton(Tab1o, {
-     Name = "Redz Hub",
+     Name = "kiba",
     Callback = function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/yqantg-pixel/Find/refs/heads/main/Protected_1593573630798166.lua.txt"))()
 end
@@ -71,8 +71,15 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Cyborg883/FakeDash/re
 end
 })
    AddButton(Tab1o, {
-     Name = "fix lag",
+     Name = "aim pro no lock",
     Callback = function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/yqantg-pixel/Find/refs/heads/main/Protected_1593573630798166.lua.txt"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MerebennieOfficial/ExoticJn/refs/heads/main/AIMLOCK"))()
 end
 })
+   AddButton(Tab1o, {
+     Name = "fix bão n sen up",
+    Callback = function()
+loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-Fps-Booster-V3-Universal-Joshzz-56009"))()
+end
+})
+ 
