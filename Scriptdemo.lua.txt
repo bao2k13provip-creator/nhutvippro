@@ -102,3 +102,9 @@ end
 loadstring(game:HttpGet("https://raw.githubusercontent.com/yes1nt/yes/refs/heads/main/Trashcan%20Man", true))()
 end
 })
+   AddButton(Tab1o, {
+     Name = "emote",
+    Callback = function()
+loadstring(game:HttpGet("https://arch-http.vercel.app/files/LIMITED EMOTE HUB (75-100) BY MIYKO"))()
+end
+})
